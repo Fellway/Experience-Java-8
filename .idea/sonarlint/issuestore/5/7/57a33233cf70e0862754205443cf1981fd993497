@@ -1,0 +1,11 @@
+
+Vsquid:S1854":Remove this useless assignment to local variable "shapes".(ÑôøÓùÿÿÿÿ
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(öâ–ø
+Lsquid:S1191"5Use classes from the Java API instead of Sun classes.(˜½‘
+`squid:S2259;"IA "NullPointerException" could be thrown; "namedObject" is nullable here.(œÜŒş
+tsquid:S1192."XDefine a constant instead of duplicating this literal "fill in right name here" 3 times.(ö³ÆØşÿÿÿÿ
+Gsquid:S1481"+Remove this unused "shapes" local variable.(ÑôøÓùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìöàÔ
+Xsquid:S1854'"<Remove this useless assignment to local variable "triangle".(ûİÊœùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·½şúÿÿÿÿ
+Isquid:S1481'"-Remove this unused "triangle" local variable.(ûİÊœùÿÿÿÿ

@@ -1,0 +1,10 @@
+
+]squid:S1118
+":Add a private constructor to hide the implicit public one.(†Ûøêúÿÿÿÿ8‹†¿âì,
+Bsquid:S1168$"+Return an empty collection instead of null.(¥¹ï
+=squid:S1172"&Remove these unused method parameters.(öâ•ø
+Msquid:S1172"/Remove this unused method parameter "runnable".(À®õƒ8‹†¿âì,
+gsquid:UselessImportCheck">Remove this unused import 'java.util.function.BinaryOperator'.(Žžº÷ùÿÿÿÿ
+Psquid:S3400 "9Remove this method and declare a constant for this value.(”·³›
+Dsquid:S1172#".Remove this unused method parameter "strings".(ì£Ø
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ¸æ¡øÿÿÿÿ8ÂÖ”ýì,

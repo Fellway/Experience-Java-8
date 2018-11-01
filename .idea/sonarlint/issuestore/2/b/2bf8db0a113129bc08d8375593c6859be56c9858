@@ -1,0 +1,21 @@
+
+Jsquid:S1612B",Replace this lambda with a method reference.(ί Υχ8Ύ‘έμ,
+Jsquid:S1612N",Replace this lambda with a method reference.(ƒ΅ς8πύ‚ήμ,
+Zsquid:S3655}"7Call "Optional#isPresent()" before accessing the value.(Σψζ¦ύÿÿÿÿ8‰©ίμ,
+Jsquid:S1612)",Replace this lambda with a method reference.(Ηƒ‡Έ8¤ÒΆΫμ,
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(τΆΩϊÿÿÿÿ8΄ύέμ,
+Osquid:S1612R",Replace this lambda with a method reference.(ή¦ΘΫÿÿÿÿÿ8ΫΫ™ήμ,
+Osquid:S1612:",Replace this lambda with a method reference.(ΰα€οόÿÿÿÿ8Β΄έμ,
+]squid:S1118":Add a private constructor to hide the implicit public one.(Ξ¦Ρτψÿÿÿÿ8οχωΪμ,
+Osquid:S1612J",Replace this lambda with a method reference.(©ιΆ¨όÿÿÿÿ8—Χϊέμ,
+Jsquid:S1612%",Replace this lambda with a method reference.(ν“ζ—8οχωΪμ,
+€squid:UselessImportCheck"PRemove this unused import 'com.sun.xml.internal.bind.v2.runtime.reflect.Lister'.(τΆΩϊÿÿÿÿ8΄ύέμ,
+†squid:UselessImportCheck"[Remove this unused import 'sun.reflect.generics.reflectiveObjects.NotImplementedException'.(½‘8ΩΊΡίμ,
+Osquid:S1612R",Replace this lambda with a method reference.(ή¦ΘΫÿÿÿÿÿ8ΫΫ™ήμ,
+Osquid:S1612",Replace this lambda with a method reference.(ύ‹Ε„ϋÿÿÿÿ8ε«Ϋμ,
+Isquid:S1172a"+Remove this unused method parameter "name".(Òα§Ϋ8Σ£ίμ,
+usquid:UselessImportCheck"ERemove this unused import 'com.sun.xml.internal.ws.util.StringUtils'.(ªΡρόÿÿÿÿ8΄ύέμ,
+Osquid:S1612>",Replace this lambda with a method reference.(Χ”¨—ωÿÿÿÿ8¦έμ,
+Osquid:S1612o",Replace this lambda with a method reference.(Θ™‡μόÿÿÿÿ8Ν―Ηίμ,
+Osquid:S1612",Replace this lambda with a method reference.(ιγΧϋÿÿÿÿ8¥έΫμ,
+csquid:UselessImportCheck	"8Remove this unused import 'java.util.function.Function'.(»³Ν8΄ύέμ,

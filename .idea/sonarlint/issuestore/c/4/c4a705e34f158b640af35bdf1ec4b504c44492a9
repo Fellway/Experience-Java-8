@@ -1,0 +1,22 @@
+
+esquid:S2259J"IA "NullPointerException" could be thrown; "newYearsEve" is nullable here.(Ê¾ò×ıÿÿÿÿ
+esquid:S22593"IA "NullPointerException" could be thrown; "newYearsEve" is nullable here.(Ê¾ò×ıÿÿÿÿ
+bsquid:S2259b"FA "NullPointerException" could be thrown; "duration" is nullable here.(Îó·§üÿÿÿÿ
+bsquid:S2259B"FA "NullPointerException" could be thrown; "midnight" is nullable here.(ªéœ¼ıÿÿÿÿ
+fsquid:S2259"IA "NullPointerException" could be thrown; "newYearsEve" is nullable here.(Ê¾ò×ıÿÿÿÿ
+dsquid:S2259y"MA "NullPointerException" could be thrown; "newYearsEve2018" is nullable here.(¡—Ì½
+Usquid:S1854o"?Remove this useless assignment to local variable "newYearsEve".(‚å³
+Gsquid:S1481;"0Remove this unused "newYearsEve" local variable.(ó‡è±
+Osquid:S1481:"8Remove this unused "newYearsEveAsString" local variable.(«´Ú©
+_squid:S1854"CRemove this useless assignment to local variable "firstOfDecember".(„¸Ï®ıÿÿÿÿ
+Asquid:S1481Z"*Remove this unused "dates" local variable.(•üû
+Qsquid:S1481@"5Remove this unused "midnightAsString" local variable.(äšçíûÿÿÿÿ
+Isquid:S1481h"-Remove this unused "duration" local variable.(ßï¾ûşÿÿÿÿ
+Fsquid:S1481v"0Remove this unused "newYearsEve" local variable.(‚å³
+Psquid:S1481"4Remove this unused "firstOfDecember" local variable.(„¸Ï®ıÿÿÿÿ
+Usquid:S1854v"?Remove this useless assignment to local variable "newYearsEve".(‚å³
+Osquid:S14811"8Remove this unused "newYearsEveAsString" local variable.(«´Ú©
+^squid:UselessImportCheck":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§
+csquid:UselessImportCheck"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª
+Psquid:S1854Z"9Remove this useless assignment to local variable "dates".(•üû
+Fsquid:S1481o"0Remove this unused "newYearsEve" local variable.(‚å³
